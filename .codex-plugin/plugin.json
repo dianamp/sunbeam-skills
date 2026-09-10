@@ -1,0 +1,31 @@
+{
+  "name": "sunbeam",
+  "version": "0.1.0",
+  "description": "Skills for consultants, coaches, and founders. Starts with run-self-feedback: a weekly, quote-backed review of how you showed up on your own calls.",
+  "author": {
+    "name": "Diana (Sunbeam Consulting)"
+  },
+  "homepage": "https://sunbeams.ai",
+  "repository": "https://github.com/dianamp/sunbeam-skills",
+  "keywords": [
+    "consulting",
+    "coaching",
+    "sales-calls",
+    "self-feedback",
+    "granola",
+    "transcripts"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Sunbeam Skills",
+    "shortDescription": "Skills for running a consulting or coaching practice.",
+    "longDescription": "Workflows for independent consultants, coaches, and founders, starting with a weekly quote-backed review of your own call performance.",
+    "developerName": "Diana (Sunbeam Consulting)",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Run self-feedback on my calls from this week.",
+      "How did I do on my discovery call yesterday?"
+    ]
+  }
+}

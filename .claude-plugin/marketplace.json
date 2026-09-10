@@ -1,0 +1,16 @@
+{
+  "name": "sunbeam-skills",
+  "metadata": {
+    "description": "Skills for running an independent consulting or coaching practice"
+  },
+  "owner": {
+    "name": "Diana (Sunbeam Consulting)"
+  },
+  "plugins": [
+    {
+      "name": "sunbeam",
+      "source": "./",
+      "description": "Skills for consultants, coaches, and founders. Starts with run-self-feedback: a weekly, quote-backed review of how you showed up on your own calls."
+    }
+  ]
+}

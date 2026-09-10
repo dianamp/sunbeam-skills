@@ -1,0 +1,7 @@
+interface:
+  display_name: "Run Self-Feedback"
+  short_description: "Quote-backed review of how you performed on your own calls."
+  default_prompt: "Use $run-self-feedback to review my calls from the past week."
+
+policy:
+  allow_implicit_invocation: true
