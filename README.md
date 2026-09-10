@@ -1,16 +1,14 @@
 # Sunbeam Skills
 
-Skills that help AI agents do the unglamorous parts of running an independent consulting or coaching practice.
+Skills that help AI agents run an independent consulting or coaching practice.
 
-I'm Diana Pfeil. I run [Sunbeam Consulting](https://sunbeams.ai), an ML advisory and CTO-coaching practice. These skills started as things I built for myself and kept using. They assume you're a solo operator (or a very small team) whose work happens mostly on calls, and that the calls are recorded.
+First skill:
+**run-self-feedback** reads your call transcripts and gives you feedback on how you're doing. Use this to grow and become more self-aware as a consultant.
 
-## Why skills for this
+## Why a skill for this
 
-Most of the leverage in a consulting practice is in *how* you show up: how many questions you ask before you recommend something, whether you state your price plainly, whether the call ends with a dated next step. None of that is visible in a meeting summary. It's only in the transcript, and nobody re-reads their own transcripts.
+Most of the leverage in a consulting practice is in *how* you show up: how many questions you ask before you recommend something, whether you state your price plainly, whether the call ends with a dated next step. None of that is visible in a meeting summary. It's only in the transcript, and nobody re-reads their own transcripts or has a manager giving them active feedback. 
 
-An agent will. These skills point it at the raw transcripts and make it report back with evidence.
-
-**run-self-feedback** is the first one. Every week it reads your calls and tells you three things you did well and three things to fix, each backed by a verbatim quote from something you actually said.
 
 ## Installation
 
@@ -46,13 +44,11 @@ Or copy a skill folder straight into `~/.claude/skills/` (or your agent's equiva
 
 | Skill | What it does |
 |-------|-------------|
-| run-self-feedback | Reviews how *you* performed on your own recorded calls and writes a quote-backed weekly review: 3 strengths, top 3 improvements, goals for next week |
+| run-self-feedback | Reviews how you performed on your own recorded calls and writes a weekly review: 3 strengths, top 3 improvements, goals for next week |
 
 ## The run-self-feedback skill
 
-The skill reviews the user, not the client. "The team has no labeling process" is a note about them. "You gave the labeling recommendation before asking what they'd tried" is a note about you. Only the second kind makes it into the review.
-
-It needs verbatim transcripts. It's built around [Granola](https://www.granola.ai) and expects a Granola connection that exposes full transcripts, not just AI summaries. Summaries record what was decided and erase how it was said, which is the whole point. If a call isn't in Granola, you can paste the transcript.
+It needs verbatim transcripts. It's built around [Granola](https://www.granola.ai) and expects a Granola connection that exposes full transcripts, not just AI summaries.
 
 Given a window (default: the past 7 days), the agent:
 
@@ -74,7 +70,7 @@ It's meant to run weekly. Set it up as a scheduled task in your agent if it supp
 
 ## Write your own skills
 
-The dimensions in `references/dimensions.md` are general. Your practice has its own tells — the phrase you use when you're about to under-price, the client who always gets the long version. Fork the skill and add them. The [skill template](https://github.com/anthropics/skills/tree/main/template) in Anthropic's skills repo is a good starting point.
+The dimensions in `references/dimensions.md` are general. Your practice has its own rubric for the kind of feedback you'd like. Fork the skill and add them.
 
 ## License
 
