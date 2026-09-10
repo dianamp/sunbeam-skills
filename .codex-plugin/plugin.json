@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Skills for consultants, coaches, and founders. Starts with run-self-feedback: a weekly, quote-backed review of how you showed up on your own calls.",
   "author": {
-    "name": "Diana (Sunbeam Consulting)"
+    "name": "Diana Pfeil (Sunbeam Consulting)"
   },
   "homepage": "https://sunbeams.ai",
   "repository": "https://github.com/dianamp/sunbeam-skills",
@@ -20,7 +20,7 @@
     "displayName": "Sunbeam Skills",
     "shortDescription": "Skills for running a consulting or coaching practice.",
     "longDescription": "Workflows for independent consultants, coaches, and founders, starting with a weekly quote-backed review of your own call performance.",
-    "developerName": "Diana (Sunbeam Consulting)",
+    "developerName": "Diana Pfeil (Sunbeam Consulting)",
     "category": "Productivity",
     "capabilities": [],
     "defaultPrompt": [

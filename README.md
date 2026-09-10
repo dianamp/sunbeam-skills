@@ -2,7 +2,7 @@
 
 Skills that help AI agents do the unglamorous parts of running an independent consulting or coaching practice.
 
-I run [Sunbeam Consulting](https://sunbeams.ai), an ML advisory and CTO-coaching practice. These skills started as things I built for myself and kept using. They assume you're a solo operator (or a very small team) whose work happens mostly on calls, and that the calls are recorded.
+I'm Diana Pfeil. I run [Sunbeam Consulting](https://sunbeams.ai), an ML advisory and CTO-coaching practice. These skills started as things I built for myself and kept using. They assume you're a solo operator (or a very small team) whose work happens mostly on calls, and that the calls are recorded.
 
 ## Why skills for this
 
