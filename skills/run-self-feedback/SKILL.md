@@ -1,6 +1,6 @@
 ---
 name: run-self-feedback
-description: Reviews how YOU performed on your own recorded calls (not the client, not the deal) and writes candid, quote-backed self-feedback — 2 things you did well, top 3 things to improve, each with a verbatim quote from the transcript. Pulls raw transcripts from Granola. Use whenever the user asks for feedback on their calls, a weekly call review, "how did I do on that call", "review my sales/coaching/client calls", "what should I improve on calls", "run self-feedback", or wants a recurring call-performance review — even if they only say "review my week" and recent meetings exist.
+description: Reviews how YOU performed on your own recorded calls and writes candid, quote-backed self-feedback — 2 things you did well, top 3 things to improve, each with a verbatim quote from the transcript. Pulls raw transcripts from Granola. Use whenever the user asks for feedback on their calls, a weekly call review, "how did I do on that call", "review my sales/coaching/client calls", "what should I improve on calls", "run self-feedback", or wants a recurring call-performance review — even if they only say "review my week" and recent meetings exist.
 ---
 
 # Run Self-Feedback
@@ -13,7 +13,7 @@ The feedback is only useful if it's grounded. Every observation must be backed b
 
 ### 1. Get the raw transcripts
 
-Work from **verbatim transcripts**, not AI meeting summaries. Summaries capture what was decided; they erase *how* it was said — the hedges, interruptions, "say that again", the think-aloud before a recommendation. Those are the whole point of this review.
+Work from **verbatim transcripts**, not AI meeting summaries. Summaries capture what was decided; they erase *how* it was said — the hedges, interruptions, "say that again", the think-aloud before a recommendation.
 
 - Use Granola: `list_meetings` for the window (default: the past 7 days, or whatever the user asks for), then `get_meeting_transcript` for each call. Use meeting summaries only to triage which calls to include, never as the thing you analyze.
 - If Granola isn't connected, or a call wasn't recorded there, ask the user to paste the transcript or point to a file.
@@ -36,7 +36,7 @@ For each call, read with the dimension list open and note moments with the exact
 
 - A behavior that shows up in three calls matters more than a striking one-off.
 - Count where you can (questions asked before the first recommendation, times the user asked someone to repeat, hedges before a piece of advice). Numbers make the feedback harder to argue with and easier to track next week.
-- Be candid. The user asked for this; softening it wastes their time. Be kind by being specific and by explaining *why* something worked or didn't, not by hedging.
+- Be candid. The user asked for this; softening it wastes their time. Be kind by being specific and by explaining *why* something worked or didn't.
 
 ### 4. Write the review
 
