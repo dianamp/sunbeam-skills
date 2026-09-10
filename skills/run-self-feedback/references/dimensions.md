@@ -54,10 +54,10 @@ Not every dimension applies to every call. Pick the ones the transcript actually
 | **Honest reporting** | Does the user report the gap between what they committed to and what they did, or curate wins? | "I said X, I did Y, here's what got in the way." |
 | **Hard stops & etiquette** | Did the user announce a hard stop at the start? Miss someone's update because of it? | Hard stop in the first minute so the group can order around it. |
 
-## Turning observations into the 3 + 3
+## Turning observations into the 2 + 3
 
 1. List every moment with its quote and dimension.
 2. Group by dimension across calls. Count occurrences.
 3. Rank by (frequency × cost). A hedge that appears in four calls outranks a single long monologue. A slipped commitment to a paying client outranks a peer-call etiquette slip.
-4. Pick the top 3 strengths and top 3 improvements. Everything else is cut or folded into one of the six.
+4. Pick the top 2 strengths and top 3 improvements. Everything else is cut or folded into one of the five.
 5. For each, keep the single best quote (two if the pattern spans calls).

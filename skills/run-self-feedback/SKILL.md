@@ -1,6 +1,6 @@
 ---
 name: run-self-feedback
-description: Reviews how YOU performed on your own recorded calls (not the client, not the deal) and writes candid, quote-backed self-feedback — 3 things you did well, top 3 things to improve, each with a verbatim quote from the transcript. Pulls raw transcripts from Granola. Use whenever the user asks for feedback on their calls, a weekly call review, "how did I do on that call", "review my sales/coaching/client calls", "what should I improve on calls", "run self-feedback", or wants a recurring call-performance review — even if they only say "review my week" and recent meetings exist.
+description: Reviews how YOU performed on your own recorded calls (not the client, not the deal) and writes candid, quote-backed self-feedback — 2 things you did well, top 3 things to improve, each with a verbatim quote from the transcript. Pulls raw transcripts from Granola. Use whenever the user asks for feedback on their calls, a weekly call review, "how did I do on that call", "review my sales/coaching/client calls", "what should I improve on calls", "run self-feedback", or wants a recurring call-performance review — even if they only say "review my week" and recent meetings exist.
 ---
 
 # Run Self-Feedback
@@ -42,7 +42,7 @@ For each call, read with the dimension list open and note moments with the exact
 
 Use the template in `references/output-template.md` exactly. The shape is deliberate:
 
-- **3 things done well** and **top 3 things to improve**. Not 2, not 5. Forcing the cut makes you pick the highest-leverage items.
+- **2 things done well** and **top 3 things to improve**. Not more, not fewer. Forcing the cut makes you pick the highest-leverage items.
 - Every item has a **direct quote** from a call. Paraphrase only when the transcript is garbled, and say so.
 - **Bullets, short plain sentences.** The user reads this in five minutes, probably on a phone. No paragraphs, no jargon, no filler adverbs.
 - Explain *why* a strength worked and *what to try instead* for each improvement. An observation without a mechanism isn't actionable.

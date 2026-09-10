@@ -17,7 +17,7 @@ Quotes are verbatim from the transcript, in quotation marks, with the speaker na
 - [Date] — [who / what] — [bucket]
 - Not reviewed: [title] — [reason, e.g. "personal" or "passive attendee"]
 
-## 3 things you did well
+## 2 things you did well
 
 ### 1. [Headline: the behavior, in plain words]
 - **What you did:** [one or two bullets]
@@ -26,11 +26,6 @@ Quotes are verbatim from the transcript, in quotation marks, with the speaker na
 - *(Optional)* **Seen in:** [other calls where it showed up]
 
 ### 2. [Headline]
-- **What you did:**
-- **Quote:**
-- **Why it worked:**
-
-### 3. [Headline]
 - **What you did:**
 - **Quote:**
 - **Why it worked:**
@@ -71,5 +66,5 @@ Quotes are verbatim from the transcript, in quotation marks, with the speaker na
 - **Bullets.** Every line under a heading is a bullet. If you're writing a paragraph, stop and split it.
 - **Length.** Each item is 4–7 bullets. Whole doc under ~900 words.
 - **Tone.** Direct and warm. "You buried the recommendation" is fine. "You might perhaps consider" is not.
-- **No sales calls this week?** Say "No sales calls this week" in the glance and skip nothing else — the 3 + 3 still come from the calls you have.
+- **No sales calls this week?** Say "No sales calls this week" in the glance and skip nothing else — the 2 + 3 still come from the calls you have.
 - **Personal calls.** Title and "personal" only. Never summarize their content.

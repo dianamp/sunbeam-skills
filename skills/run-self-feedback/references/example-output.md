@@ -19,7 +19,7 @@ This shows the tone and density to aim for. Real reviews use the user's actual c
 - Sep 10 — Accountability check-in with G. — peer
 - Not reviewed: "Onboarding call" — personal
 
-## 3 things you did well
+## 2 things you did well
 
 ### 1. You open with an agenda and people follow it
 - **What you did:** Stated the order and the reason for it in the first minute of every call you ran.
@@ -31,11 +31,6 @@ This shows the tone and density to aim for. Real reviews use the user's actual c
 - **What you did:** When A. defended a backward-looking analysis, you didn't argue the method. You reframed what the analysis was for.
 - **Quote:** "The reason we care about what would happen is because we're making a decision about what to put into production… that's a separate question than what's gonna happen if we put this into production." — ML meeting, Sep 10
 - **Why it worked:** You named the principle, not just the fix. A. agreed and committed to the rerun on the spot.
-
-### 3. Your feedback is specific and permissioned
-- **What you did:** Asked before giving website feedback, then gave concrete changes and backed them with your own buyer experience.
-- **Quote:** "Are you up for feedback on your website?" … "I've been a buyer for this in the past. When I worked on [big co], I did credit risk modeling… we evaluated a ton of vendors." — check-in with G., Sep 10
-- **Why it worked:** G. took notes live and said it clarified his page.
 
 ## Top 3 things to improve
 
