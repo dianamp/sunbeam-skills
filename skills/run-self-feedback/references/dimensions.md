@@ -17,7 +17,7 @@ Not every dimension applies to every call. Pick the ones the transcript actually
 | **Recommendation-first** | Does the user's answer to "what should we do?" start with the answer, or with a think-aloud? | First sentence = the recommendation. Second = why. Caveats last. If the other person has to say "so your opinion is…", it was buried. |
 | **Agenda & time** | Did the user state an agenda in the first minute? Announce hard stops up front? Steer back when drifting? Did the call run long? | Agenda stated, hard stops announced at the top, drift redirected within a minute. |
 | **Next steps & owners** | Last few minutes: are actions concrete, dated, and assigned by name? | Every action has an owner and a date. "I'll take that on" beats "we should". |
-| **Follow-through** | Did commitments from earlier calls come up and get closed? Did last week's review goal show up? | User raises their own prior commitments before being asked. |
+| **Follow-through** | Within the window: did commitments made on an earlier call come up and get closed on a later one? | User raises their own prior commitments before being asked. |
 | **Rapport** | Genuine check-in, humor, remembering personal details, acknowledging the other person's point before disagreeing. | Warm, brief, then to work. Not a performance. |
 
 ## Sales calls (prospects, proposals, pricing)

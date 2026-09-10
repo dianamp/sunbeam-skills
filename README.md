@@ -55,8 +55,7 @@ Given a window (default: the past 7 days), the agent:
 1. Pulls every transcript in the window and sorts each call into **sales**, **client**, or **peer**. Passive-attendee and personal calls are listed but not reviewed.
 2. Reads each transcript against a set of dimensions that fit the call type — talk/listen share, questions before answers, hedging, recommendation-first, presence, next steps with owners, and about twenty more (see [`dimensions.md`](skills/run-self-feedback/references/dimensions.md)). Benchmarks come from conversation-intelligence research and the ICF coaching competencies.
 3. Looks *across* calls for patterns and counts them. A hedge that shows up in four calls outranks a single long monologue.
-4. Checks follow-through on commitments from earlier calls and on last week's goals, if a previous review exists.
-5. Writes the review using a fixed template: 3 things you did well, top 3 things to improve, open loops, 1–2 goals for next week that are observable in a transcript. Every item carries a direct quote. The whole thing reads in about five minutes.
+4. Writes the review using a fixed template: 3 things you did well, top 3 things to improve, 1–2 goals for next week that are observable in a transcript. Every item carries a direct quote. The whole thing reads in about five minutes.
 
 It saves the review as a Google Doc when Drive is connected, otherwise as a Markdown file, and replies with one line on the top strength and one on the top improvement.
 
@@ -66,7 +65,7 @@ Once installed:
 Run self-feedback on my calls from this week.
 ```
 
-It's meant to run weekly. Set it up as a scheduled task in your agent if it supports one, so each week's goals get checked against the next week's transcripts.
+It's meant to run weekly. Set it up as a scheduled task in your agent if it supports one.
 
 ## Write your own skills
 

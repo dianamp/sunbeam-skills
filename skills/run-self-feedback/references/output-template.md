@@ -55,11 +55,6 @@ Quotes are verbatim from the transcript, in quotation marks, with the speaker na
 - **Why it matters:**
 - **Try instead:**
 
-## Open loops
-
-- [Commitments the user made on calls this week that aren't done yet — one bullet each, with who it's owed to]
-- [If a previous review exists: did last week's goal show up? One bullet.]
-
 ## Goals for next week
 
 - **Goal 1:** [Observable in a transcript. "Ask three open questions before describing a service."]

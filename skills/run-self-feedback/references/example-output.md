@@ -57,12 +57,6 @@ This shows the tone and density to aim for. Real reviews use the user's actual c
 - **Why it matters:** It undoes the credibility you just built. Same reflex showed up with A. ("I'm not sure").
 - **Try instead:** Stop after the feedback. Let it land.
 
-## Open loops
-
-- Report back to the mastermind on what's working in sales calls
-- Prep session with W. before your next second call
-- Linear setup for client A — committed Sep 3, deferred twice
-
 ## Goals for next week
 
 - **Goal 1:** Lead every piece of advice with the one-sentence recommendation before any caveat.

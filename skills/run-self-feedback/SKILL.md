@@ -36,7 +36,6 @@ For each call, read with the dimension list open and note moments with the exact
 
 - A behavior that shows up in three calls matters more than a striking one-off.
 - Count where you can (questions asked before the first recommendation, times the user asked someone to repeat, hedges before a piece of advice). Numbers make the feedback harder to argue with and easier to track next week.
-- Check follow-through: did commitments made in earlier calls (or last week's review, if one exists) actually happen? Look for a previous review in the user's files or docs before writing goals.
 - Be candid. The user asked for this; softening it wastes their time. Be kind by being specific and by explaining *why* something worked or didn't, not by hedging.
 
 ### 4. Write the review
@@ -47,7 +46,7 @@ Use the template in `references/output-template.md` exactly. The shape is delibe
 - Every item has a **direct quote** from a call. Paraphrase only when the transcript is garbled, and say so.
 - **Bullets, short plain sentences.** The user reads this in five minutes, probably on a phone. No paragraphs, no jargon, no filler adverbs.
 - Explain *why* a strength worked and *what to try instead* for each improvement. An observation without a mechanism isn't actionable.
-- End with 1–2 goals for next week that are observable in a transcript ("ask three open questions before describing a service"), each with one line on how they'll know it worked. Carry a goal forward if last week's is still the top issue.
+- End with 1–2 goals for next week that are observable in a transcript ("ask three open questions before describing a service"), each with one line on how they'll know it worked.
 
 See `references/example-output.md` for what a finished review looks like. It's there for shape and density only — the findings in it belong to one specific week and should never be reused.
 
@@ -59,7 +58,7 @@ See `references/example-output.md` for what a finished review looks like. It's t
 
 ## Running it weekly
 
-This skill works best as a recurring review — same day each week, same window, so goals from one week can be checked against the next. If the agent supports scheduled tasks, set one up with a prompt like: "Run self-feedback on my calls from the past 7 days and save the review as a doc."
+This skill works best as a recurring review: same day each week, same window. If the agent supports scheduled tasks, set one up with a prompt like: "Run self-feedback on my calls from the past 7 days and save the review as a doc."
 
 ## Things that make this go wrong
 
