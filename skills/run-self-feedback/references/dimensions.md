@@ -20,7 +20,7 @@ Not every dimension applies to every call. Pick the ones the transcript actually
 | **Agenda & time** | Did the user state an agenda in the first minute? Announce hard stops up front? Steer back when drifting? Did the call run long? | Agenda stated, hard stops announced at the top, drift redirected within a minute. |
 | **Next steps & owners** | Last few minutes: are actions concrete, dated, and assigned by name? | Every action has an owner and a date. "I'll take that on" beats "we should". |
 | **Follow-through** | Within the window: did commitments made on an earlier call come up and get closed on a later one? | User raises their own prior commitments before being asked. |
-| **Technical soundness** | Claims the user states as fact: numbers, mechanisms, what a tool does, what a method guarantees. Clear the bar in "Technical soundness" below before flagging one. | Claims hold up. Uncertainty is voiced as uncertainty ("I'd want to check that") instead of asserted flatly. |
+| **Technical soundness** *(technical calls only)* | Claims the user states as fact: numbers, mechanisms, what a tool does, what a method guarantees. Skip this row entirely on a call with no technical content. Clear the bar in "Technical soundness" below before flagging anything. | Claims hold up. Uncertainty is voiced as uncertainty ("I'd want to check that") instead of asserted flatly. |
 | **Rapport** | Genuine check-in, humor, remembering personal details, acknowledging the other person's point before disagreeing. | Warm, brief, then to work. Not a performance. |
 
 ## Sales calls (prospects, proposals, pricing)
@@ -61,6 +61,7 @@ Not every dimension applies to every call. Pick the ones the transcript actually
 
 Every other dimension here is about delivery. This one is about content: was the thing the user said actually true? Push back when it wasn't.
 
+- **Technical calls only.** Judge this per call, before anything else. A call is in scope when it turns on substance that can be checked: architecture, data and modeling, statistics, code, infrastructure, tooling, security, or the user's own technical domain. A call is out of scope when there's no fact to be right or wrong about: pricing, positioning, scoping, leadership and career coaching, accountability check-ins, relationship and personal conversations. On an out-of-scope call, ignore this dimension completely. Don't stretch to find something, and don't treat a business opinion as a technical claim because it sounded confident.
 - **The user's claims only.** If a client said something wrong, that is not a finding. It becomes one only if the user endorsed it or repeated it as their own.
 - **The bar to flag.** The claim was stated as fact (not floated as a maybe), it was load-bearing (a decision or recommendation rests on it), and you can say concretely what is wrong with it. All three, or leave it out.
 - **Say what's actually true.** A flag without the correction is not useful. Give the right version in one or two plain sentences, and where it changes the advice the user gave.
@@ -68,6 +69,8 @@ Every other dimension here is about delivery. This one is about content: was the
 - **Watch the transcript.** Speech-to-text mangles technical terms, version numbers, and units. If the flag depends on a word the transcript probably garbled, drop it.
 - **Not findings.** Loose terminology, a deliberate simplification for a non-technical audience, a judgment call where competent people disagree, or an approach you'd have chosen differently. Being wrong is the bar, not being different.
 - **Credit the good calls too.** A correct, sharp, load-bearing technical judgment is a strength, and belongs in the 2 with everything else.
+
+If none of the week's calls were technical, the Technical notes section doesn't appear in the review at all. That's the normal outcome for a week of sales and coaching calls, not a gap to apologize for.
 
 These go in their own **Technical notes** section of the review. They don't compete for the 2 + 3 slots. A *pattern* of overclaiming (several shaky assertions across calls) is a different thing, and that can be one of the 3 improvements.
 

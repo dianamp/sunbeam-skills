@@ -52,7 +52,7 @@ Quotes are verbatim from the transcript, in quotation marks, with the speaker na
 
 ## Technical notes
 
-*(Only when a claim didn't hold up. Delete the whole section if everything checked out.)*
+*(Technical calls only. Delete the whole section when the week held no technical calls, or when every claim checked out.)*
 
 - **Claim:** "[verbatim]" — [call, date]
   - **What's off:** [one or two bullets]
@@ -77,5 +77,5 @@ Quotes are verbatim from the transcript, in quotation marks, with the speaker na
 - **Length.** Each item is 4–7 bullets. Whole doc under ~1000 words.
 - **Tone.** Direct and warm. "You buried the recommendation" is fine. "You might perhaps consider" is not.
 - **No sales calls this week?** Say "No sales calls this week" in the glance and skip nothing else — the 2 + 3 still come from the calls you have.
-- **Technical notes.** The user's own claims only, never the client's. Wrong and load-bearing, not merely imprecise. Always give the correction. Say so when you're unsure rather than flagging with false confidence. An empty section gets deleted, not padded.
+- **Technical notes.** Technical calls only: a week of sales and coaching calls has no such section, and that's normal. The user's own claims only, never the client's. Wrong and load-bearing, not merely imprecise. Always give the correction. Say so when you're unsure rather than flagging with false confidence. An empty section gets deleted, not padded.
 - **Personal calls.** Title and "personal" only. Never summarize their content.

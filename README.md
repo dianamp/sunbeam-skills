@@ -53,9 +53,9 @@ It needs verbatim transcripts. It's built around [Granola](https://www.granola.a
 Given a window (default: the past 7 days), the agent:
 
 1. Pulls every transcript in the window and sorts each call into **sales**, **client**, or **peer**. Passive-attendee and personal calls are listed but not reviewed.
-2. Reads each transcript against a set of dimensions that fit the call type — talk/listen share, questions before answers, hedging, recommendation-first, presence, next steps with owners, technical soundness, and about twenty more (see [`dimensions.md`](skills/run-self-feedback/references/dimensions.md)). Benchmarks come from conversation-intelligence research and the ICF coaching competencies.
+2. Reads each transcript against a set of dimensions that fit the call type — talk/listen share, questions before answers, hedging, recommendation-first, presence, next steps with owners, technical soundness on technical calls, and about twenty more (see [`dimensions.md`](skills/run-self-feedback/references/dimensions.md)). Benchmarks come from conversation-intelligence research and the ICF coaching competencies.
 3. Looks *across* calls for patterns and counts them. A hedge that shows up in four calls outranks a single long monologue.
-4. Writes the review using a fixed template: 2 things you did well, top 3 things to improve, 1–2 goals for next week that are observable in a transcript. Every item carries a direct quote. If the user asserted something technical that doesn't hold up, a technical notes section says what's wrong and what's actually true. The whole thing reads in about five minutes.
+4. Writes the review using a fixed template: 2 things you did well, top 3 things to improve, 1–2 goals for next week that are observable in a transcript. Every item carries a direct quote. On technical calls, if the user asserted something that doesn't hold up, a technical notes section says what's wrong and what's actually true. Non-technical weeks don't get that section. The whole thing reads in about five minutes.
 
 It saves the review as a Google Doc when Drive is connected, otherwise as a Markdown file, and replies with one line on the top strength and one on the top improvement.
 

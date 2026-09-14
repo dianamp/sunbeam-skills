@@ -7,7 +7,7 @@ description: Reviews how YOU performed on your own recorded calls and writes can
 
 Give a consultant, coach, or founder honest feedback on how *they* showed up on their own calls. The subject is always the user's behavior — how they listened, asked, advised, priced, steered, and closed — never the client's problems or the content of the deal.
 
-One exception: technical soundness. If the user asserted something that isn't correct, say so and say what is correct. Advice delivered well is still bad advice if it's wrong, and nobody else on the call is going to check it. This is the only place the review touches content, and it covers what the user claimed, never what the client claimed.
+One exception, and only on calls that are technical in nature: if the user asserted something that isn't correct, say so and say what is correct. Advice delivered well is still bad advice if it's wrong, and nobody else on the call is going to check it. This is the only place the review touches content, it covers what the user claimed rather than what the client claimed, and it doesn't apply at all to a call with no technical substance in it.
 
 The feedback is only useful if it's grounded. Every observation must be backed by something the user actually said, quoted verbatim from a transcript. If you can't find a quote for a point, drop the point.
 
@@ -39,7 +39,7 @@ For each call, read with the dimension list open, but don't let it close you off
 - A behavior that shows up in three calls usually matters more than a striking one-off. Usually, not always: a single moment that cost the user real money, trust, or standing outranks a tic that recurs.
 - **Go looking for what the dimensions don't cover.** They're a floor. The sharpest item in a review is often something specific to this user, this client, this week that no rubric row anticipates. Say it, quote it, and rank it against everything else on equal terms. If every observation you made maps cleanly onto a dimension, read the calls again.
 - Count where you can (questions asked before the first recommendation, times the user asked someone to repeat, hedges before a piece of advice). Numbers make the feedback harder to argue with and easier to track next week.
-- Check technical soundness: were the claims the user stated as fact actually right? Read the "Technical soundness" section of `references/dimensions.md` for the bar to clear before flagging one, and for what to do when you aren't sure.
+- On technical calls only, check technical soundness: were the claims the user stated as fact actually right? Decide first whether the call is technical at all. A pricing conversation, a coaching session, or an accountability check-in has no technical claims to check, so skip this entirely there. Read the "Technical soundness" section of `references/dimensions.md` for the scope test, the bar to clear before flagging anything, and what to do when you aren't sure.
 - Be candid. The user asked for this; softening it wastes their time. Be kind by being specific and by explaining *why* something worked or didn't.
 
 ### 4. Write the review
@@ -50,7 +50,7 @@ Use the template in `references/output-template.md` exactly. The shape is delibe
 - Every item has a **direct quote** from a call. Paraphrase only when the transcript is garbled, and say so.
 - **Bullets, short plain sentences.** The user reads this in five minutes, probably on a phone. No paragraphs, no jargon, no filler adverbs.
 - Explain *why* a strength worked and *what to try instead* for each improvement. An observation without a mechanism isn't actionable.
-- **Technical notes** only when a claim didn't hold up. Leave the section out entirely when everything checked out. Never pad it.
+- **Technical notes** only on technical calls, and only when a claim didn't hold up. Leave the section out entirely when the week held no technical calls or everything checked out. Never pad it.
 - End with 1–2 goals for next week that are observable in a transcript ("ask three open questions before describing a service"), each with one line on how they'll know it worked.
 
 See `references/example-output.md` for what a finished review looks like. It's there for shape and density only — the findings in it belong to one specific week and should never be reused.
@@ -72,5 +72,5 @@ This skill works best as a recurring review: same day each week, same window. If
 - **Unquoted claims.** "You tend to over-explain" with no quote reads as an opinion. With the quote it reads as evidence.
 - **Padding the strengths.** Strengths matter as much as critiques, but only if they're real and specific. "Good rapport" with no example is filler.
 - **Filling in the form.** The dimension list is a starting point, not the assignment. When every finding in a review happens to match a rubric row, the rubric did the reading. The observation the user couldn't have predicted is worth more than the one they could.
-- **Nitpicking in the technical notes.** Loose terminology, a simplification made for the audience, and a judgment call you'd have made differently are not errors. Flag a claim when it's both wrong and load-bearing.
+- **Nitpicking in the technical notes.** Loose terminology, a simplification made for the audience, and a judgment call you'd have made differently are not errors. Flag a claim when it's both wrong and load-bearing, and only on a call that was technical to begin with. A confident opinion about price or positioning is not a technical claim.
 - **Ten small notes instead of three big ones.** Combine related observations into one pattern. Leave the rest out.
