@@ -4,6 +4,8 @@ What to look for in a transcript, by call type. Each dimension lists the behavio
 
 Not every dimension applies to every call. Pick the ones the transcript actually gives evidence for.
 
+**This list is a floor, not a ceiling.** It's a starting set of things that reliably matter, not the complete set of things worth saying. Go looking for what it doesn't name: something particular to this user's practice, this client, this week. A habit around money, a relationship that shifted, the way they talk about their own work, a pattern nobody has a word for yet. Those notes are usually the most valuable ones in a review, because they're the ones the user couldn't have predicted. If you finish a transcript and every observation you wrote down lands neatly on a row below, you filled in a form instead of reading the call.
+
 ## Dimensions that apply to every call
 
 | Dimension | How to spot it | Good looks like |
@@ -18,6 +20,7 @@ Not every dimension applies to every call. Pick the ones the transcript actually
 | **Agenda & time** | Did the user state an agenda in the first minute? Announce hard stops up front? Steer back when drifting? Did the call run long? | Agenda stated, hard stops announced at the top, drift redirected within a minute. |
 | **Next steps & owners** | Last few minutes: are actions concrete, dated, and assigned by name? | Every action has an owner and a date. "I'll take that on" beats "we should". |
 | **Follow-through** | Within the window: did commitments made on an earlier call come up and get closed on a later one? | User raises their own prior commitments before being asked. |
+| **Technical soundness** | Claims the user states as fact: numbers, mechanisms, what a tool does, what a method guarantees. Clear the bar in "Technical soundness" below before flagging one. | Claims hold up. Uncertainty is voiced as uncertainty ("I'd want to check that") instead of asserted flatly. |
 | **Rapport** | Genuine check-in, humor, remembering personal details, acknowledging the other person's point before disagreeing. | Warm, brief, then to work. Not a performance. |
 
 ## Sales calls (prospects, proposals, pricing)
@@ -54,10 +57,25 @@ Not every dimension applies to every call. Pick the ones the transcript actually
 | **Honest reporting** | Does the user report the gap between what they committed to and what they did, or curate wins? | "I said X, I did Y, here's what got in the way." |
 | **Hard stops & etiquette** | Did the user announce a hard stop at the start? Miss someone's update because of it? | Hard stop in the first minute so the group can order around it. |
 
+## Technical soundness
+
+Every other dimension here is about delivery. This one is about content: was the thing the user said actually true? Push back when it wasn't.
+
+- **The user's claims only.** If a client said something wrong, that is not a finding. It becomes one only if the user endorsed it or repeated it as their own.
+- **The bar to flag.** The claim was stated as fact (not floated as a maybe), it was load-bearing (a decision or recommendation rests on it), and you can say concretely what is wrong with it. All three, or leave it out.
+- **Say what's actually true.** A flag without the correction is not useful. Give the right version in one or two plain sentences, and where it changes the advice the user gave.
+- **Say when you aren't certain.** "Worth re-checking, because X" is a legitimate note. Name what would settle it. Never manufacture confidence you don't have, and never invent a citation.
+- **Watch the transcript.** Speech-to-text mangles technical terms, version numbers, and units. If the flag depends on a word the transcript probably garbled, drop it.
+- **Not findings.** Loose terminology, a deliberate simplification for a non-technical audience, a judgment call where competent people disagree, or an approach you'd have chosen differently. Being wrong is the bar, not being different.
+- **Credit the good calls too.** A correct, sharp, load-bearing technical judgment is a strength, and belongs in the 2 with everything else.
+
+These go in their own **Technical notes** section of the review. They don't compete for the 2 + 3 slots. A *pattern* of overclaiming (several shaky assertions across calls) is a different thing, and that can be one of the 3 improvements.
+
 ## Turning observations into the 2 + 3
 
-1. List every moment with its quote and dimension.
-2. Group by dimension across calls. Count occurrences.
-3. Rank by (frequency × cost). A hedge that appears in four calls outranks a single long monologue. A slipped commitment to a paying client outranks a peer-call etiquette slip.
+1. List every moment with its quote, and the dimension it belongs to. Write "off-list" when none of them fits. Never force a moment onto the nearest row, and never drop it for lack of a label.
+2. Group across calls: by dimension where there is one, by the pattern itself for the off-list moments. Count occurrences.
+3. Rank by (frequency × cost). A hedge that appears in four calls outranks a single long monologue. A slipped commitment to a paying client outranks a peer-call etiquette slip. Off-list observations rank on exactly the same footing: nothing earns a bonus for having a row in this file, and a single moment can outrank a frequent pattern when the cost is high enough.
 4. Pick the top 2 strengths and top 3 improvements. Everything else is cut or folded into one of the five.
+   - Technical soundness flags sit outside this count. List them all in Technical notes, strongest first.
 5. For each, keep the single best quote (two if the pattern spans calls).

@@ -50,6 +50,15 @@ Quotes are verbatim from the transcript, in quotation marks, with the speaker na
 - **Why it matters:**
 - **Try instead:**
 
+## Technical notes
+
+*(Only when a claim didn't hold up. Delete the whole section if everything checked out.)*
+
+- **Claim:** "[verbatim]" — [call, date]
+  - **What's off:** [one or two bullets]
+  - **What's actually true:** [the correction, plainly, plus what it changes about the advice given]
+  - **Confidence:** [high, or "worth re-checking" and what would settle it]
+
 ## Goals for next week
 
 - **Goal 1:** [Observable in a transcript. "Ask three open questions before describing a service."]
@@ -61,10 +70,12 @@ Quotes are verbatim from the transcript, in quotation marks, with the speaker na
 
 ## Rules for the sections
 
+- **Off-rubric items are welcome, and wanted.** An item does not have to correspond to a dimension in `dimensions.md`. It has to be true, quoted, and worth the user's attention. Rank it against everything else on equal terms.
 - **Ranking.** Item 1 in each list is the most important. Say so implicitly by putting it first, not by adding "most importantly".
 - **Quotes.** One per item minimum. Two if the pattern spans calls. Never invent or "improve" a quote.
 - **Bullets.** Every line under a heading is a bullet. If you're writing a paragraph, stop and split it.
-- **Length.** Each item is 4–7 bullets. Whole doc under ~900 words.
+- **Length.** Each item is 4–7 bullets. Whole doc under ~1000 words.
 - **Tone.** Direct and warm. "You buried the recommendation" is fine. "You might perhaps consider" is not.
 - **No sales calls this week?** Say "No sales calls this week" in the glance and skip nothing else — the 2 + 3 still come from the calls you have.
+- **Technical notes.** The user's own claims only, never the client's. Wrong and load-bearing, not merely imprecise. Always give the correction. Say so when you're unsure rather than flagging with false confidence. An empty section gets deleted, not padded.
 - **Personal calls.** Title and "personal" only. Never summarize their content.

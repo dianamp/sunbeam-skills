@@ -52,6 +52,13 @@ This shows the tone and density to aim for. Real reviews use the user's actual c
 - **Why it matters:** It undoes the credibility you just built. Same reflex showed up with A. ("I'm not sure").
 - **Try instead:** Stop after the feedback. Let it land.
 
+## Technical notes
+
+- **Claim:** "AUC is 0.85, so the class imbalance isn't really hurting us." — ML meeting, Sep 10
+  - **What's off:** ROC-AUC is built from rates computed within each class, so it barely moves as the positive rate drops. It can sit at 0.85 while precision at the deployed threshold is in the single digits.
+  - **What's actually true:** At a 1–2% positive rate, precision-recall AUC and precision at the operating threshold are what track the experience in production. Worth raising with A. before the rerun you agreed to.
+  - **Confidence:** High.
+
 ## Goals for next week
 
 - **Goal 1:** Lead every piece of advice with the one-sentence recommendation before any caveat.
